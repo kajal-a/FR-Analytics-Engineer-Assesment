@@ -1,4 +1,4 @@
-# take-home-test
+# FR-Analytics-Engineer-Assessment
 Submission for Fetch Rewards Take Home Assessment 
 
 This repository demonstrates the design and implementation of a dimensional model for a data warehouse. A description for each file included in the repository is given below:
