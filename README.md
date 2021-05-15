@@ -9,7 +9,11 @@ This repository demonstrates the design and implementation of a dimensional mode
 5. stakeholder_email.pdf: A brief summary of my findings articulated in an e-mail message.
 
 Useful links and references:
+
 https://www.lucidchart.com
+
 https://jupyter.org/
+
 https://www.sqlite.org/index.html
+
 https://www.sqlitetutorial.net/
